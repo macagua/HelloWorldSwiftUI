@@ -21,7 +21,7 @@ The following are some screenshots for the iOS App:
 <figure>
     <img src="./docs/images/step_3_iPhone_16_Pro_HelloWorldAppNewName.png"
          alt="iPhone 16 Pro - the Hello World App with New Message" width="400" height="869"/>
-    <figcaption>Step 2 - The Hello World App with New Message on iPhone 16 Pro!</figcaption>
+    <figcaption>Step 3 - The Hello World App with New Message on iPhone 16 Pro!</figcaption>
 </figure>
 
 ## License
