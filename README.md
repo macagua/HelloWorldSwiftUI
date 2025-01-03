@@ -7,6 +7,7 @@ Build the traditional "Hello World" application using SwiftUI's built-in state m
 The following are some "Hello World" Examples for the iOS App:
 
 - [Hello World Basic](./HelloWorldBasic/README.md).
+- [Hello World with Text Field](./HelloWorldTextField/README.md).
 
 ## License
 
